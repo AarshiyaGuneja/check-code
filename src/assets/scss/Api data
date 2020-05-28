@@ -1,0 +1,59 @@
+[{
+    "groupname": "main2group1"
+    "user": "abhinay"
+    "time": "9:10:52"
+    "appname": "main2"
+    "area": "dashboardprocessing"
+    "starttime": "8:10:12"
+    "Message":
+              [
+                {
+                    "client": "client1"
+                    "fund": "fund1"
+                    "process": "file reading started"
+                    "status": "complete"
+
+                },
+                {
+                    "client": "client2"
+                    "fund": "fund2"
+                    "process": "file reading started"
+                    "status": "complete"
+                },
+                {
+                    "client": "client2"
+                    "fund": "fund3"
+                    "process": "file reading completed"
+                    "status": "complete"
+                }
+              ]
+},
+{
+    "groupname": "main2group2"
+    "user": "abhinay"
+    "time": "9:10:52"
+    "appname": "main2"
+    "area": "dashboardprocessing"
+    "starttime": "8:10:12"
+    "Message":
+              [
+                {
+                    "client": "client3"
+                    "fund": "fund5"
+                    "process": "file reading started"
+                    "status": "complete"
+                },
+                {
+                    "client": "client3"
+                    "fund": "fund5"
+                    "process": "file reading started"
+                    "status": "complete"
+                },
+                {
+                    "client": "client4"
+                    "fund": "fund6"
+                    "process": "file reading completed"
+                    "status": "complete"
+                }
+              ]
+]
